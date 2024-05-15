@@ -32,10 +32,10 @@ Run the script to train the model and visualize the predictions:
 
 Here, we are using Sequential, LSTM, Dropout and Dense layers to train the model. Visualizations are at the end where we visualise actual vs predicted values.
 
-Contributing
+# Contributing
 Contributions are welcome Please feel free to submit pull requests.
 
-License
+# License
 Distribute under the MIT License. See LICENSE for more information.
 
 Remember to replace https://github.com/yourusername/stock-price-prediction.git with the actual URL of your GitHub repository. This README provides a clear overview of your project, instructions for setting up and running the code, and encourages contributions. Adjust the content as needed to fit your specific project details and requirements.
